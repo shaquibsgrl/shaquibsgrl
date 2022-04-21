@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <hr>
 
-<img align="center" alt="Coding" width="500" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br></br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaquibsgrl&label=Profile%20views&color=0e75b6&style=flat" alt="shaquibsgrl" /> </p>
